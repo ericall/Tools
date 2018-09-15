@@ -5,4 +5,4 @@
 ## Tutorials
 
 ## Performance
-* (https://checklyhq.com/blog/2018/08/how-we-got-a-100-lighthouse-performance-score-for-our-vue.js-app/):How we got a 100% Lighthouse performance score for our Vue.js app.
+* [Lighthouse performance](https://checklyhq.com/blog/2018/08/how-we-got-a-100-lighthouse-performance-score-for-our-vue.js-app/):How we got a 100% Lighthouse performance score for our Vue.js app.
